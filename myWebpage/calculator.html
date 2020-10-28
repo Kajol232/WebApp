@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+    <head>
+        <title>Calculator</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale-1.0">
+        <link rel="shortcut icon" href="images/img2.jpg" type="images/x-icon">
+
+    </head>
+
+    <body>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact</a>
+            <a href="calculator.html">Calcuate</a>
+        </nav>
+
+        <h1>Calculator</h1>
+
+        <form action="">
+            <div style="margin-bottom: 3px; margin-top: 3px">
+                <input type = "text" id="val1" placeholder="Enter first value"/>
+            </div>
+
+            <div style="margin-bottom: 3px;">
+                <input type ="text" id="val2" placeholder="Enter second value"/>
+            </div>
+
+            <div style="margin-bottom: 3px;">
+                <input type="text" id = "result" readonly/>
+            </div>
+
+            <input type="button" value = "ADD" onclick="addClick()"/>
+            <input type="button" value ="Subtract" onclick="subClick()"/>
+            <input type="button" value="Multiply" onclick="mulClick()"/>
+            <input type="button" value="Divide" onclick="divClick()"/>
+            <input type="button" value="Modulo" onclick="modClick()"/>
+
+        </form>
+
+        <script src="js/app.js"></script>
+
+
+    </body>
+
+
+
+</html>

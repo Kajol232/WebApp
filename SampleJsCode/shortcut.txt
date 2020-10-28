@@ -1,0 +1,18 @@
+****SHORTCUTS ON VS CODE****
+
+ctrl + B = Close and reopen sidebar.
+ctrl + , = opens settings.
+ctrl + K + arrowdown = close settings.
+ctrl + shift + e = explorer.
+ctrl + shift + f = search.
+ctrl + shift + G = git.
+ctrl + shift + d = run/ debug.
+ctrl+ shift + x = extensions.
+ctrl+u = show source code on browsers.
+ctrl+shift+m = use online emulators to test your code 
+in diff environments.
+ctrl+shift+p = quokka
+
+CLH connection details.
+clh.c2.muhammad
+mr6ja8
