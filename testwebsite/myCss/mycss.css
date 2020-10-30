@@ -1,0 +1,6 @@
+.bg-image {
+  background-image: url(../images/bg.jpg);
+  background-repeat: repeat;
+  min-height: 100%;
+  min-width: 100%;
+}
